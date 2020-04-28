@@ -1,6 +1,6 @@
 # node-weatherapp
 
-Weather-app using
+Weather-app using nodejs and
 >express
 
 >handlebars
